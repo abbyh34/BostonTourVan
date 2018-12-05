@@ -1,0 +1,139 @@
+<resources>
+    <string name="app_name">Boston: A Guide for Touring Musicians</string>
+    <string name="category_blogs">Music Blogs</string>
+    <string name="category_eat">Eat</string>
+    <string name="category_venues">Venues</string>
+    <string name="category_fests">Fests</string>
+    <string name="category_bars">Bars</string>
+    <string name="boston">Tour Van Boston</string>
+    <string name="about_boston">About Boston, MA</string>
+    <!-- Info from wikipedia.com -->
+    <string name="city">Boston is the capital city and most populous municipality[9] of the
+        Commonwealth of Massachusetts in the United States. The city proper covers 48 square miles
+        (124 km2) with an estimated population of 685,094 in 2017,[3] making it also the most
+        populous city in the New England region.[2] Boston is the seat of Suffolk County as well,
+        although the county government was disbanded on July 1, 1999.[10] The city is the economic
+        and cultural anchor of a substantially larger metropolitan area known as Greater Boston, a
+        metropolitan statistical area (MSA) home to a census-estimated 4.8 million people in 2016
+        and ranking as the tenth-largest such area in the country.[11] As a combined statistical
+        area (CSA), this wider commuting region is home to some 8.2 million people, making it the
+        sixth-largest in the United States.[12]</string>
+    <string name="skyline">Zagat Bridge</string>
+    <string name="sky">sky</string>
+    <string name="weather_in_boston">Weather in Boston</string>
+    <string name="seasons">Boston is the epitome of a Northeastern city: the weather changes
+        radically from season to season, the city is populated with diverse groups of people and
+        nearly every street is home to a historical site. Finding things to do in Boston is easy,
+        but packing is harder. Bring clothing loose enough to walk in, warm enough to stay
+        comfortable and stylish enough to fit into Boston's chic nightlife scene.</string>
+    <string name="image_of_item">Image of Item</string>
+    <string name="dividing_bar">Dividing Bar</string>
+    <string name="vanyaland">VANYALAND</string>
+    <string name="vanyaland_address">Boston, MA</string>
+    <string name="vanyaland_phone">(617) 867–5309</string>
+    <string name="vanyaland_info">Vanyaland is for connected individuals who are “culture-forward”
+        and looking to discover a definitive news, lifestyle, and entertainment source in their
+        city and beyond.</string>
+    <string name="vanyaland_website">www.vanyaland.com</string>
+    <string name="hassle">BOSTON HASSLE</string>
+    <string name="hassle_address">Boston, MA</string>
+    <string name="pudding">ALLSTON PUDDING</string>
+    <string name="pudding_address">Allston, MA</string>
+    <string name="hassle_phone">(617) 867–5309</string>
+    <string name="pudding_phone">(617) 867–5309</string>
+    <string name="hassle_website">www.bostonhassle.com</string>
+    <string name="pudding_website">www.allstonpudding.com</string>
+    <string name="hassle_info">Boston Hassle is part of Brain Arts Organization which is an arts and
+        music organization brought to you by musicians, artists, writers, and enthusiasts in the
+        Greater Boston Area. We compile and maintain a daily, curated list of music, art and film
+        happenings and works in Boston, New England, and beyond.</string>
+    <string name="pudding_info">
+        Welcome to Allston Pudding, your online source for music both in Boston and beyond! Allston
+        Pudding is operated and written by fans and musicians to highlight new music and live music
+        from all over. We are supporters of local music, from our hometown to local scenes
+        throughout the world. We hope to support and champion artists who may not receive their
+        proper radio play or publicity, but definitely deserve your attention.
+        Take a read and enjoy!</string>
+    <string name="taco">TACO PARTY</string>
+    <string name="lifealive">LIFE ALIVE</string>
+    <string name="wholeheart">WHOLE HEART PROVISIONS</string>
+    <string name="taco_address">711 Broadway\nSomerville, MA</string>
+    <string name="lifealive_address">765 Massachusetts Ave\nCambridge, MA</string>
+    <string name="wholeheart_address">487 Cambridge Street\nAllston, MA</string>
+    <string name="taco_phone">(617) 764–0683</string>
+    <string name="lifealive_phone">(617) 354–5433</string>
+    <string name="wholeheart_phone">(617) 202–5041</string>
+    <string name="taco_website">www.tacopartytruck.com</string>
+    <string name="lifealive_website">www.lifealive.com</string>
+    <string name="wholeheart_website">www.wholeheartprovisions.com/</string>
+    <string name="taco_info">Colorful, kitschy counter-serve spot with a meatless Mexican menu
+        starring inventive veggie tacos.</string>
+    <string name="lifealive_info">Friendly, funky, quick-serve spot for organic veggie/vegan wraps,
+        salads and smoothies.</string>
+    <string name="wholeheart_info">Build-your-own bowls of veggies, grains and unique toppings at this
+        fast-casual, vegan-friendly spot.</string>
+    <string name="hasslefest">HASSLE FEST</string>
+    <string name="bostoncalling">BOSTON CALLING</string>
+    <string name="roxbury">ROXBURY ROCKS</string>
+    <string name="hasslefest_address">156 Highland Ave\nSomerville, MA</string>
+    <string name="bostoncalling_address">65 North Harvard St\nBoston, MA</string>
+    <string name="roxbury_address">1234 Columbus Ave\nBoston, MA</string>
+    <string name="hasslefest_phone">(617) 867–5309</string>
+    <string name="bostoncalling_phone">(888) 512–7469</string>
+    <string name="roxbury_phone">(617) 427–0060</string>
+    <string name="hasslefest_website">www.http://bostonhasslefest.com/</string>
+    <string name="bostoncalling_website">www.bostoncalling.com</string>
+    <string name="roxbury_website">www.roxburyrocks.weebly.com</string>
+    <string name="hasslefest_info">Brain Arts and Boston Hassle’s annual celebration of the music and art
+        underground of America (and beyond). Anti-commercial, independent, and outsider culture is
+        our culture. 2 day good time in Boston, MA. A chance to get the freaks together.</string>
+    <string name="bostoncalling_info">Boston Calling Music Festival is a Boston-based music festival.
+        Debuting in May 2013, Boston Calling previously took place twice a year, May and September,
+        at City Hall Plaza. It attracted 20-22,000 fans with each edition.</string>
+    <string name="roxbury_info">Roxbury Rocks! is a student-run service project founded in fall 2015
+        by Tallie Hausser, an incoming Northeastern University freshman in the University Scholars
+        Program.  Comprised this year of 7 University Scholars – four of which are first-years –,
+        RR! is both a research project and a community service undertaking, whose aim is expose
+        children of all backgrounds to music and dance education.</string>
+    <string name="greatscott">GREAT SCOTT</string>
+    <string name="sinclair">SINCLAIR</string>
+    <string name="paradise">PARADISE ROCK CLUB</string>
+    <string name="greatscott_address">1222 Commonwealth Avenue\nAllston, MA</string>
+    <string name="sinclair_address">52 Church Street\nCambridge, MA</string>
+    <string name="paradise_address">967 Commonwealth Ave\nBoston, MA</string>
+    <string name="greatscott_phone">(617) 566 9014</string>
+    <string name="sinclair_phone">(617) 547–5200</string>
+    <string name="paradise_phone">(617) 562–8800</string>
+    <string name="greatscott_website">www.greatscottboston.com/</string>
+    <string name="sinclair_website">www.sinclaircambridge.com</string>
+    <string name="paradise_website">www.paradisrock.club</string>
+    <string name="greatscott_info">Low-key destination for indie-underground live-music shows and long-running dance nights.</string>
+    <string name="sinclair_info">This gastropub and music venue features New American fare and live acts, with an open kitchen and patio.</string>
+    <string name="paradise_info">The Paradise Rock Club is a 933-capacity music venue located in Boston, Massachusetts. Because of its relatively small size,
+        it appeals to top local rock and alternative performers as well as American bands visiting Boston for the first time.</string>
+    <string name="model">MODEL CAFE</string>
+    <string name="auto">THE AUTOMATIC</string>
+    <string name="ellum">DEEP ELLUM</string>
+    <string name="model_address">7 N Beacon Street\nBoston MA</string>
+    <string name="auto_address">50 Hampshire Street\nCambridge, MA</string>
+    <string name="ellum_address">477 Cambridge Street\nAllston, MA</string>
+    <string name="model_phone">(617) 254–9365</string>
+    <string name="auto_phone">(617) 714–5226</string>
+    <string name="ellum_phone">(617) 787–233</string>
+    <string name="model_website">www.palmettocarriage.com</string>
+    <string name="auto_website">www.charlestonculinarytours.com</string>
+    <string name="ellum_website">www.deepellum-allston.com/dewp/</string>
+    <string name="model_info">Cocktails and beers come in a bare-bones setting with a variety of bar games including pinball.</string>
+    <string name="auto_info">Charleston Culinary Tours combine the best of Charleston history,
+        cocktails and food with unique tours that highlight the Lowcountry. On each tour, you
+        will not only have an opportunity to sample some of the Lowcountry\'s finest offerings,
+        but also to meet the owners, chefs and mixologists behind Charleston\'s impressive culinary
+        and bar innovations.</string>
+    <string name="ellum_info">Here at Ghost City, we are proud to offer our ghost tours in South
+        Carolina\'s most haunted city! Our Charleston Ghost Tours take you to the most haunted
+        locations in the downtown area of Charleston. You\'ll hear the stories of Charleston\'s
+        haunted history while standing in the very places these haunting events take place.</string>
+    <string name="explore">Explore</string>
+    <string name="about">About</string>
+    <string name="weather">Weather</string>
+</resources>
